@@ -2,7 +2,6 @@ customer_id,name,age,city,email,purchase_amount,purchase_date
 C001,Rahul Sharma,25.0,Dehradun,rahul@gmail.com,1200.0,2026-01-05
 C002,Priya Singh,30.0,Dehradun,priya@gmail.com,850.0,2026-01-07
 C004,Neha Verma,28.0,Delhi,neha@gmail.com,999.0,2026-01-12
-C007,Vikas Joshi,22.0,Dehradun,vikas@gmail,750.0,2026-01-20
 C008,Sneha Roy,29.0,Kolkata,sneha@gmail.com,1200.0,2026-01-22
 C009,Arjun Patel,31.0,Delhi,arjun@gmail.com,1800.0,2026-01-25
 C010,Pooja Shah,27.0,Dehradun,pooja@gmail.com,950.0,2026-01-28
