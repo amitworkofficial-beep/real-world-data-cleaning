@@ -14,14 +14,14 @@ The raw dataset contains 20 records and 7 columns.
 
 The following data quality issues were intentionally included:
 
-- Missing values
-- Invalid age values
-- Negative age values
-- Invalid email addresses
-- Inconsistent city capitalization
-- Missing purchase amounts
-- Invalid purchase dates
-- Duplicate records
+* Missing values
+* Invalid age values
+* Negative age values
+* Invalid email addresses
+* Inconsistent city capitalization
+* Missing purchase amounts
+* Invalid purchase dates
+* Duplicate records
 
 ## Cleaning Process
 
@@ -47,6 +47,7 @@ real-world-data-cleaning/
 │
 ├── data/
 │   ├── raw_data.csv
+│   ├── old_cleaned_data.csv
 │   └── processed/
 │       └── cleaned_data.csv
 │
@@ -56,3 +57,4 @@ real-world-data-cleaning/
 ├── outputs/
 │
 └── README.md
+```
