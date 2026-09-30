@@ -1,0 +1,17 @@
+customer_id,name,age,city,email,purchase_amount,purchase_date
+C001,Rahul Sharma,25,Dehradun,rahul@gmail.com,1200.0,2026-01-05
+C002,Priya Singh,30,dehradun,priya@gmail.com,850.0,2026-01-07
+C004,Neha Verma,28,DELHI,neha@gmail.com,999.0,2026-01-12
+C005,Rohit Mehta,abc,Mumbai,rohit@gmail.com,2100.0,2026-01-15
+C007,Vikas Joshi,22,Dehradun,vikas@gmail,750.0,2026-01-20
+C008,Sneha Roy,29,Kolkata,sneha@gmail.com,1200.0,2026-01-22
+C009,Arjun Patel,31,Delhi,arjun@gmail.com,1800.0,2026-01-25
+C010,Pooja Shah,27,dehradun,pooja@gmail.com,950.0,2026-01-28
+C011,Rahul Sharma,25,Dehradun,rahul@gmail.com,1200.0,2026-01-05
+C012,Karan Singh,-5,Jaipur,karan@gmail.com,650.0,2026-02-01
+C013,Meena Das,40,kolkata,meena@gmail.com,2200.0,2026-02-03
+C014,Raj Malhotra,33,Mumbai,raj@gmail.com,1750.0,2026-02-05
+C016,Dev Kumar,26,Delhi,dev@gmail.com,1300.0,2026-02-10
+C017,Anita Joshi,abc,Dehradun,anita@gmail.com,900.0,2026-02-12
+C018,Mohit Singh,38,MUMBAI,mohit@gmail.com,1600.0,2026-02-15
+C020,Sameer Khan,45,Jaipur,sameer@gmail.com,2500.0,invalid-date
